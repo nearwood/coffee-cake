@@ -1,33 +1,33 @@
 # Entenmann's Original Crumb Coffee Cake Clone
 
-This aims to reproduce the OG recipe. Not the NY style, which is objectively trash.
+This aims to reproduce the OG recipe. Not the NY style, which is an abomination.
 
-Recipe targets deployment in 8x8 pan.
+Deploy in 8x8 pan.
 
 ## Ingredients
 
 ### Dough
- * 250 g (2 cups) all-purpose flour
- * 4 g (1⅓ tsp) instant yeast
- * 75 g (⅓ cup) sugar
- * 6 g (1 tsp) salt
+ * 2 cups bread flour
+ * 1 tbsp instant yeast
+ * ⅓ cup sugar
+ * 1 tsp salt
  * 1 large egg
- * 100 g (6½ Tbsp) milk (or water), lukewarm
- * 90 g (6 Tbsp) unsalted butter, softened/melted
+ * 1 cup milk (or water), lukewarm
+ * 6 tbsp unsalted butter, softened/melted
  * 1 tsp vanilla extract
 
 ### Crumb Topping
- * 250 g (1 cup) all-purpose flour
- * 200 g (1/2 cup) light brown sugar
- * 3 g (1 tsp) cinnamon
- * 1 g (pinch) salt
- * 90 g (6 Tbsp) unsalted butter, melted
+ * 1 cup bread (or all-purpose) flour
+ * 1/2 cup light brown sugar
+ * 1 tsp cinnamon
+ * pinch of salt
+ * 6 Tbsp unsalted butter, melted
 
 ### Finish
  * Powdered sugar
 
 ## Directions
-1. Mix warm milk/water with yeast and let sit.
+1. Mix warm milk/water with yeast and let it compile.
 1. Mix flour, sugar, and salt.
 1. Add eggs, milk, vanilla, yeast mixture and butter.
 1. Knead 8–10 minutes until smooth and elastic.
@@ -36,9 +36,9 @@ Recipe targets deployment in 8x8 pan.
 1. For crumbs, combine flour, brown sugar, cinnamon, and salt. Stir in melted butter until large and small crumbs form. Put in fridge for 15 mins to cool.
 1. Heat oven to 350°F (175°C)
 1. Cover dough generously with crumb topping.
-1. Bake 30–35 minutes until golden and center reaches about 190–195°F.
+1. Bake 30–35 minutes until golden and toothpick is clean.
 1. Cool completely. Dust heavily with powdered sugar before serving.
 
 ## Tips/Notes
 * Try letting dough rise overnight in the fridge after kneading. Bring to room temperature before pressing into pan.
-* Seems to always taste better a day later, when room temperature.
+* Seems to always taste better a day later, when at room temperature.
