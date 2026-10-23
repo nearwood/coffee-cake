@@ -32,7 +32,7 @@ Deploy in 8x8 pan.
 1. Mix warm milk/water with yeast and let it compile.
 1. Mix flour, sugar, and salt.
 1. Add eggs, milk, vanilla, yeast mixture and butter.
-1. Knead 8–10 minutes until smooth and elastic.
+1. Knead until mixed.
 1. Cover and let rise until doubled, about 60–90 minutes.
 1. Grease a 8x8 inch pan. Press dough evenly into pan. Let rise again 30–45 minutes until puffy.
 1. For crumbs, combine flour, brown sugar, cinnamon, and salt. Stir in melted butter until large and small crumbs form. Put in fridge for 15 mins to cool.
@@ -44,3 +44,4 @@ Deploy in 8x8 pan.
 ## Tips/Notes
 * Try letting dough rise overnight in the fridge after kneading. Bring to room temperature before pressing into pan.
 * Seems to always taste better a day later, when at room temperature.
+* This particular version (779e500), the dough was sticky, not smooth like bread dough.
