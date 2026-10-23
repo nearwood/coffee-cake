@@ -1,5 +1,7 @@
 # Entenmann's Original Crumb Coffee Cake Clone
 
+<img width="240" alt="A finished coffee cake" src="https://github.com/user-attachments/assets/b4c06139-7911-4a08-8c4e-85284ee6e9d9" align='right'/>
+
 This aims to reproduce the OG recipe. Not the NY style, which is an abomination.
 
 Deploy in 8x8 pan.
@@ -8,12 +10,12 @@ Deploy in 8x8 pan.
 
 ### Dough
  * 2 cups bread flour
- * 1 tbsp instant yeast
- * ⅓ cup sugar
+ * 2 tsp instant yeast
+ * 1/3 cup sugar
  * 1 tsp salt
  * 1 large egg
- * 1 cup milk (or water), lukewarm
- * 6 tbsp unsalted butter, softened/melted
+ * 1/2 cup water (or milk), lukewarm
+ * 2 tbsp unsalted butter, softened/melted
  * 1 tsp vanilla extract
 
 ### Crumb Topping
