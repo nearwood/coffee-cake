@@ -1,0 +1,50 @@
+name: Release PDF
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc weasyprint fonts-dejavu
+
+      - name: Determine tag
+        id: tag
+        env:
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
+        run: |
+          if [ "${{ github.event_name }}" = "release" ]; then
+            echo "name=$RELEASE_TAG" >> "$GITHUB_OUTPUT"
+          else
+            echo "name=$(git describe --tags --always)" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Build PDF
+        run: |
+          pandoc README.md -f gfm -t html5 --standalone \
+            --metadata pagetitle="Entenmann's Original Crumb Coffee Cake Clone" \
+            --css print/print.css -o coffee-cake.html
+          weasyprint coffee-cake.html "coffee-cake-${{ steps.tag.outputs.name }}.pdf"
+
+      - name: Upload to release
+        if: github.event_name == 'release'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
+        run: gh release upload "$RELEASE_TAG" coffee-cake-*.pdf --clobber
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: coffee-cake-pdf
+          path: coffee-cake-*.pdf
