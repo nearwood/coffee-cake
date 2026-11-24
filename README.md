@@ -34,11 +34,11 @@ Deploy in 8x8 pan.
 ## Directions
 1. In a small bowl, Mix warm water with yeast, sugar, and salt and let it compile.
 1. In a medium bowl, mix flour and sugar.
-1. Add eggs, vanilla, yeast mixture and butter, knead until mixed.
+1. Add eggs, vanilla, and yeast mixture. Knead until mixed.
 1. Cover and let rise 60–90 minutes.
 2. For crumbs, combine flour, brown sugar, cinnamon, and salt in a small bowl.
-3. Stir in melted butter until large and small crumbs form. Store in fridge until dough is ready.
-1. Grease a 8x8 inch pan. Press dough evenly into pan.
+3. Stir in melted butter until large and small crumbs form. Cover & store in fridge until dough is ready.
+1. Grease a 8x8 inch pan. Spread dough evenly into pan.
 1. Heat oven to 350°F.
 1. Cover dough generously with crumb topping; press lightly into dough.
 1. Bake 30 minutes until golden and toothpick is clean.
